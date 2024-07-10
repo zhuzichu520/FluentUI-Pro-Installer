@@ -6,6 +6,12 @@
 
 </div>
 
+[release-link]: https://github.com/zhuzichu520/FluentUI-Pro-Installer/releases "Release status"
+[release-badge]: https://img.shields.io/github/release/zhuzichu520/FluentUI-Pro-Installer.svg?style=flat-square "Release status"
+[download-link]: https://github.com/zhuzichu520/FluentUI-Pro-Installer/releases/latest "Download status"
+[download-badge]: https://img.shields.io/github/downloads/zhuzichu520/FluentUI-Pro-Installer/total.svg "Download status"
+[download-latest]: https://img.shields.io/github/downloads/zhuzichu520/FluentUI-Pro-Installer/latest/total.svg "latest status"
+
 ## 与[FluentUI](https://github.com/zhuzichu520/FluentUI)开源版本有啥不同?
 
 1. 开源版本支持Qt6与Qt5.15.2,Pro版本仅支持Qt6
