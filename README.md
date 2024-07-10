@@ -14,8 +14,8 @@
 4. 开源版本不支持热加载，Pro版本支持热加载，运行之后修改代码可实时关注QML界面变化，支持一键关闭开启
 5. 开源版不支持wasm编译，Pro版本支持wasm编译
 6. 开源版本过于臃肿，Pro版本做了减法，去其糟粕，取其精华，重新打造
-7. 开源版MIT协议免费，Pro版本付费，如有需要请联系作者wx购买：FluentUI
-8. 开源版默认动态库依赖，Pro版本默认静态库依赖
+7. 开源版默认动态库依赖，Pro版本默认静态库依赖
+8. 开源版MIT协议免费，Pro版本付费，如有需要请联系作者wx购买：FluentUI
 
 ## 下载Pro版本
 [下载地址](https://github.com/zhuzichu520/FluentUI-Pro-Installer/releases)
