@@ -2,7 +2,7 @@
 
 # FluentUI Pro
 
-基于[FluentUI](https://github.com/zhuzichu520/FluentUI)开源版本重新打造的项目,代码更加漂亮,API设计更加好用,界面更加细腻
+基于[FluentUI](https://github.com/zhuzichu520/FluentUI)开源版本重新打造的项目,代码更加漂亮,API更加好用,界面更加细腻
 
 </div>
 
