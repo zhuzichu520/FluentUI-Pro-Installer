@@ -17,4 +17,4 @@
 7. 开源版MIT协议免费，Pro版本付费，如有需要请联系作者wx购买：FluentUI
 
 ## 下载Pro版本
-[下载地址](https://github.com/zhuzichu520/https://github.com/zhuzichu520/FluentUI-Pro-Installer/releases)
+[下载地址](https://github.com/zhuzichu520/FluentUI-Pro-Installer/releases)
