@@ -8,7 +8,7 @@
 
 ![release-badge] ![download-badge] ![download-latest]
 
-[download-link]: https://github.com/zhuzichu520/FluentUI-Pro-Installer/releases/latest "Download status"
+[release-badge]: https://img.shields.io/github/release/zhuzichu520/FluentUI-Pro-Installer.svg?style=flat-square "Release status"
 [download-badge]: https://img.shields.io/github/downloads/zhuzichu520/FluentUI-Pro-Installer/total.svg "Download status"
 [download-latest]: https://img.shields.io/github/downloads/zhuzichu520/FluentUI-Pro-Installer/latest/total.svg "latest status"
 
